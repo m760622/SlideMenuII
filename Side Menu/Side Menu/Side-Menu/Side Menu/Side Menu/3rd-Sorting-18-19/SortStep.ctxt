@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SortStep
+comment0.text=\n\ \ Driver\ program\ for\ the\ Sorts\ class.\n
+comment1.params=
+comment1.target=SortStep()
+comment1.text=\n\ \ Constructor\ for\ the\ SortStep\ object\n
+comment2.params=
+comment2.target=void\ sortMenu()
+comment2.text=\n\ \ Asks\ the\ user\ to\ select\ a\ sorting\ algorithm,\ fills\ the\ array\n\ \ with\ an\ amount\ of\ random\ integer\ data\ chosen\ by\ the\ user,\ calls\n\ \ the\ sorting\ algorithm,\ and\ gives\ an\ option\ of\ printing\ out\ the\n\ \ data\ after\ it\ has\ been\ sorted.\n
+comment3.params=
+comment3.target=void\ fillArrayWithInts()
+comment3.text=\n\ \ Initializes\ myArray\ with\ random\ integers\ in\ the\ range\n\ \ 1..largestInt\n\n\ @param\ \ numInts\ \ \ \ \ number\ of\ integers\ to\ generate\ (size\ of\n\ \ \ \ \ \ myArray)\n\ @param\ \ largestInt\ \ largest\ possible\ random\ integer\ to\ create\n
+comment4.params=
+comment4.target=void\ resetArray()
+comment4.text=\n\ \ reset\ the\ array\ for\ the\ next\ sort\n
+comment5.params=
+comment5.target=void\ screenOutput()
+comment5.text=\n\ \ prints\ out\ the\ contents\ of\ the\ array\ in\ tabular\ form,\ 12\ columns\n
+numComments=6
